@@ -19,15 +19,9 @@
 
 <h3>📫 Vamos nos conectar?</h3>
 
-<a href="https://www.linkedin.com/in/matheusferrereira" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="http://instagram.com/fmatheusaugusto" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="mailto:fmatheusaugusto@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheusferrereira)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](http://instagram.com/fmatheusaugusto)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fmatheusaugusto@gmail.com)
 
 
 
