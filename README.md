@@ -23,6 +23,25 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](http://instagram.com/fmatheusaugusto)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fmatheusaugusto@gmail.com)
 
+---
 
+<h3>🛠️ Principais Ferramentas:</h3>
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  &nbsp;
+
+  <!-- SQL (ícone estilo base de dados com "SQL") -->
+  <img src="https://img.icons8.com/fluency/48/sql.png" alt="SQL" width="40" height="40"/>
+  &nbsp;
+
+  <!-- Power BI (estilo da imagem enviada) -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+  &nbsp;
+
+  <!-- Excel -->
+  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/>
+</p>
 
 
